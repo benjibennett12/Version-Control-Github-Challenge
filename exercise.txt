@@ -1,0 +1,17 @@
+1. Explain what the terminal is in your words.
+
+The terminal is the more maximized version of executing commands via your computers operating system. Having the ability to access file and certain folders faster since it is more reliant on typing rather than clicks(via mouse)
+
+
+2.What is the major difference between Git and Github?
+
+Git is more like the underlying version of control system while Github is a web-based platform that Git repositories and allows collaboration on projects. To put it more simply Github is a sharing platform for repositories and Git is the tool to manage that code and its changes.
+
+
+3.What are the steps to fork a Github repository?(Before you Begin you must have a Github account)
+
+..Browse a public repository that you want to fork.
+
+..Click the Fork Button (up-right corner of the Repository page your requesting to be forked)
+
+..Confirm ( A URL or forked copy) of the repository should be available .
